@@ -1,1 +1,1 @@
-# Java-script-_pong-ping
+# Java-scriptpong-ping
